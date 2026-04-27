@@ -4,6 +4,26 @@ A clean, minimal Flutter app for converting between world currencies using live 
 
 ---
 
+## Screenshots
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <img width="1080" height="2424" alt="Screenshot_1777217303" src="https://github.com/user-attachments/assets/216d0362-808d-45e8-8613-71edd4b9eff0" />
+    </td>
+    <td>
+      <img width="1080" height="2424" alt="Screenshot_1777217307" src="https://github.com/user-attachments/assets/50a98bfa-9d64-46da-bfac-55b6fcb92501" />
+    </td>
+    <td>
+      <img width="1080" height="2424" alt="Screenshot_1777217329" src="https://github.com/user-attachments/assets/b48a5c33-554e-4a12-946d-b04cbbc02f6d" />
+    </td>
+    <td>
+      <img width="1080" height="2424" alt="Screenshot_1777217335" src="https://github.com/user-attachments/assets/1c3bbf2c-2f54-4151-b6fb-d8c2510aa937" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 - **~170 currencies** — select any from/to pair from a searchable dropdown
